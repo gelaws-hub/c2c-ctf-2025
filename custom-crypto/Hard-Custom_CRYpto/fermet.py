@@ -1,0 +1,14 @@
+# The mystery numbers
+mystery1 = 9255148449636418216385264245495380482495319132180584397583467416355769839562706084794458545102351040157147419871853545909043164883810472180514610420641921
+mystery2 = 6931631282889972183327683199072306716240322338997374907010572707887059508933369990642023077374138000177093679758882336300263254384172980207042097698432353
+
+
+def check_special_cases():
+    n, e = read_public_key(public_key_pem)
+    # Check if related to Wiener's attack
+    if e > n:
+        print("Possible vulnerability to Wiener's attack")
+    # Check for small prime differences
+    diff = abs(mystery1 - mystery2)
+    if diff < 1000000:
+        print("Small difference between mystery numbers")

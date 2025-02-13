@@ -1,0 +1,12 @@
+{
+    "name": "wsdec",
+   
+    "description": "Decode any arbitrary text from a set of spaces, tabs and form-feeds encoded with wsenc encoder",
+   
+    "keywords": [
+      "whitespace",
+      "text",
+      "decoder",
+      "steganography"
+    ]
+  }
