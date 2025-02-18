@@ -7,4 +7,4 @@ I AM TOO LAZY TO SORT THINGS OUT SO IF SOMEONE IS WILLING TO DO THAT, THAT'D BE 
 I noticed some of the challanges are not cannot be opened especially the web ones, so we can't do anything about it 
 
 
-I Managed to get to top 14 but not sure if I'm going for the finals since it will be in the USA. I don't have the money lol
+I Managed to get to top 14, hopefully I will be able to go to the finals
